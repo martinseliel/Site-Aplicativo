@@ -1,2 +1,2 @@
-# Site-Aplicativo
-projeto para portfólio - site de institucional
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
